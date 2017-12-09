@@ -10,3 +10,6 @@ git config --global https.proxy socks5://127.0.0.1:1080
 - write as root
 :w !sudo tee %
 
+# tcpdump
+- get http request
+sudo tcpdump  -vvv -A -S -s 0  | grep -B3 -A10 "HTTP\/1.1"

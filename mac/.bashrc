@@ -21,5 +21,7 @@ alias svnd=' svn diff  '
 alias svnn=" svn st | grep -v '^M\|^A'"
 
 alias grep=' grep --color=auto '
-export SVN_EDITOR='vim'
 alias md5sum=' md5 -r '
+
+export SVN_EDITOR='vim'
+export EDITOR='vim'
