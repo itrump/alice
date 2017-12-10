@@ -11,3 +11,7 @@ git push my-fork master
 
 git pull origin master
 git push my-fork master
+
+# netstat
+- get listening port
+netstat  -an | grep 8999
