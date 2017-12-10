@@ -1,11 +1,6 @@
 sudo apt-get install --no-install-recommends build-essential autoconf libtool libssl-dev libpcre3-dev libev-dev asciidoc xmlto automake
 ./obfs-local
 
-# git
-- config socks proxy
-git config --global http.proxy socks5://127.0.0.1:1080
-git config --global https.proxy socks5://127.0.0.1:1080
-
 # vim
 - write as root
 :w !sudo tee %

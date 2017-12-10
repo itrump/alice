@@ -1,0 +1,13 @@
+# git
+- config socks proxy
+git config --global http.proxy socks5://127.0.0.1:1080
+git config --global https.proxy socks5://127.0.0.1:1080
+
+
+- git repository wiki clone
+git clone https://github.com/user1/project.wiki.git
+git remote add my-fork https://github.com/user2/project.wiki.git
+git push my-fork master
+
+git pull origin master
+git push my-fork master

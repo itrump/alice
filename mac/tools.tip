@@ -5,3 +5,7 @@ brew install wget
 brew install ...
 - todo
 [ ] provide inland url
+
+# lsof
+- list all listening ports
+lsof  -n -i | grep 127.0.0.1
