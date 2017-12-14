@@ -15,3 +15,9 @@ git push my-fork master
 # netstat
 - get listening port
 netstat  -an | grep 8999
+
+# wget
+- download via proxy
+with cow installed, and work as a http proxy. 
+[cow server / local shadowsocks] service required
+https_proxy=127.0.0.1:7777 wget https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/gcfg/source-archive.zip
