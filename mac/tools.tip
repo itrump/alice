@@ -9,3 +9,4 @@ brew install ...
 # lsof
 - list all listening ports
 lsof  -n -i | grep 127.0.0.1
+lsof -i -P
