@@ -1,7 +1,8 @@
 # Todo
 instant ideas and thoughts
-[ ] wechat mini program encoder/decoder
+[ ] wechat mini program md5/b64... encoder/decoder
 [ ] new year hongbao
+[ ] gobyexample.com chinese site
 
 ### Investment
 [ ] crypto coin study and invest
