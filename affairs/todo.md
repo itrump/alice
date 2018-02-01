@@ -2,7 +2,8 @@
 instant ideas and thoughts
 [ ] wechat mini program md5/b64... encoder/decoder
 [ ] new year hongbao
-[ ] gobyexample.com chinese site
+[ ] gobyexample.com chinese site [github repo](https://github.com/mmcgrana/gobyexample)
+[ ] gowebexamples.com chinese site [github repo](https://github.com/gowebexamples/gowebexamples)
 
 ### Investment
 [ ] crypto coin study and invest
