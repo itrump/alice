@@ -1,0 +1,7 @@
+# coin
+coinsnoopy  coinjerry coinmicky coinmiky coinlili coinjacky cointutu coingougou
+coinbit163 coinpoolr coinpricegraph coinpriceline coinpricedot coinprice8
+coinpricehub coinfafa coinhub8 coinlucy coinflowhub coincaphub coinhubcap
+coingoldhub coinjumphub coincrosshub coinflowhub cointradebay bittradebay
+tradebitbay tradecoinbay cointbay ctradebay btctradebay cointradebit
+coinflyhub coinfithub coindothub coincheaphub coinholdhub

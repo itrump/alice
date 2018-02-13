@@ -15,6 +15,10 @@ git push my-fork master
 # netstat
 - get listening port
 netstat  -an | grep 8999
+- find which program is listening on certain port
+sudo netstat -nlp | grep :80
+sudo lsof -n -i :80 | grep LISTEN
+lsof -i :80
 
 # wget
 - download via proxy
@@ -25,3 +29,7 @@ https_proxy=127.0.0.1:7777 wget https://storage.googleapis.com/google-code-archi
 # centos
 - install dev tools
 sudo yum groupinstall -y "Development Tools"
+=======
+# curl
+- just show http header
+curl -I google.com
