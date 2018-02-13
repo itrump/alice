@@ -5,6 +5,8 @@ sudo apt-get install --no-install-recommends build-essential autoconf libtool li
 - write as root
 :w !sudo tee %
 - multiple lines replace first n matched patterns
+refer http://ozzmaker.com/add-colour-to-text-in-python/
+
 a a a a a
 a a a a a
 a a a a a
