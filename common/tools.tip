@@ -20,6 +20,9 @@ sudo netstat -nlp | grep :80
 sudo lsof -n -i :80 | grep LISTEN
 lsof -i :80
 
+- port scanner
+ - [tcp / udp port scanner](https://portscanner.standingtech.com/)
+
 # wget
 - download via proxy
 with cow installed, and work as a http proxy. 
@@ -37,3 +40,4 @@ curl -I google.com
 # find
 - find file by time
   - [find file by access / modification date](https://www.cyberciti.biz/faq/howto-finding-files-by-date/)
+
