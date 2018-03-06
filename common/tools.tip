@@ -29,3 +29,7 @@ https_proxy=127.0.0.1:7777 wget https://storage.googleapis.com/google-code-archi
 # curl
 - just show http header
 curl -I google.com
+
+# find
+- find file by time
+  - [find file by access / modification date](https://www.cyberciti.biz/faq/howto-finding-files-by-date/)
