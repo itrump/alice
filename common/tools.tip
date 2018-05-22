@@ -37,6 +37,11 @@ sudo yum groupinstall -y "Development Tools"
 - just show http header
 curl -I google.com
 
+# https cert check
+- check expiration
+  - echo | openssl s_client -servername a.8bitr.com -connect a.8bitr.com:443 2>/dev/null | openssl x509 -noout -issuer -subject -dates
+  - curl --insecure -v https://a.8bitr.com
+=======
 # find
 - find file by time
   - [find file by access / modification date](https://www.cyberciti.biz/faq/howto-finding-files-by-date/)
